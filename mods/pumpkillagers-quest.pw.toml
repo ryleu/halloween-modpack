@@ -1,0 +1,13 @@
+name = "Pumpkillager's Quest"
+filename = "pumpkillagersquest-1.20.1-3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KhJx1K92/versions/6qaiMM8l/pumpkillagersquest-1.20.1-3.2.jar"
+hash-format = "sha1"
+hash = "d215d234988496fada324d0c874f217275816e9f"
+
+[update]
+[update.modrinth]
+mod-id = "KhJx1K92"
+version = "6qaiMM8l"

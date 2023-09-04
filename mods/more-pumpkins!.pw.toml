@@ -1,0 +1,13 @@
+name = "Pumpkins Accelerated"
+filename = "PumpkinsAccelerated_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k5tJFQ1E/versions/J4UiCPt7/PumpkinsAccelerated_1.20.1.jar"
+hash-format = "sha1"
+hash = "63f066d099eb160a8772b05baacfaaa838114305"
+
+[update]
+[update.modrinth]
+mod-id = "k5tJFQ1E"
+version = "J4UiCPt7"

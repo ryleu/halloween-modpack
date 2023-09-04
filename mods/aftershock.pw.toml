@@ -1,0 +1,13 @@
+name = "Aftershock"
+filename = "aftershock-1.20.1-0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5mniBzZH/versions/w6c5EMsA/aftershock-1.20.1-0.0.3.jar"
+hash-format = "sha1"
+hash = "935ecc088693f7418036999770eecfe733249e9c"
+
+[update]
+[update.modrinth]
+mod-id = "5mniBzZH"
+version = "w6c5EMsA"
